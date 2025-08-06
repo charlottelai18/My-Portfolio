@@ -1,8 +1,9 @@
+import Navbar from "./components/Navbar";
+
 function App(){
   return (
     <div>
-      <h1>Hello, I'm char</h1>
-      <p>Welcome to my portfolio website!</p>
+      <Navbar />
     </div>
   )
 }
